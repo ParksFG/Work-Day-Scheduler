@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was developed to work on JavaScript, Third Party APIs, and Server Side APIs.  It is a simple work day scheduler that accurately tracks the day and time.  Currently there is no functionality for going back to previous days, but a simple scheduler for singular days.  This project was mainly a documentation reading project to checkout how well I can incorparate APIs.
+This project was developed to work on JavaScript and Third Party APIs.  It is a simple work day scheduler that accurately tracks the day and time.  Currently there is no functionality for going back to previous days, but a simple scheduler for singular days.  This project was mainly a documentation reading project to checkout how well I can incorparate APIs.
 
 ## Table of Contents
 
